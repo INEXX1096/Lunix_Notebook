@@ -15,11 +15,11 @@
 * 行数 + shift-g - 快速移动到目标行
 
 
-关机重启命令
-shutdown -h now = 立即关机
-shutdown -h 1 = 一分钟后关机
-shutdown -r now = 立即重启
-halt = 立即关机
-reboot = 立即重启
-sync = 将内存的数据同步到磁盘
+## 关机重启命令
+- shutdown -h now = 立即关机
+- shutdown -h 1 = 一分钟后关机
+- shutdown -r now = 立即重启
+- halt = 立即关机
+- reboot = 立即重启
+- sync = 将内存的数据同步到磁盘
 
